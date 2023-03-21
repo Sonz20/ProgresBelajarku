@@ -1,2 +1,1 @@
-buat file hello.txt
-bakal error gak ya
+hello world saja
